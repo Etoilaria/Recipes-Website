@@ -1,40 +1,49 @@
 * {
-    background-color: #ffeaf5;
+    background-color: #fcfcfc;
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 .title {
-    color:#ffeaf5;
-    background: #eeb6d5;
-    border: 4px solid #eeb6d5;
+    color:#fcfcfc;
+    background: #e19c99;
+    border: 4px dashed #CD7672;
     height: auto;
     padding:15px;
 }
-.header {
-    color:#ffeaf5;
-    background: #eeb6d5;
-    border: 4px solid #eeb6d5;
+.headerlist {
+    color:#fcfcfc;
+    background: #56a2a7;
+    border: 4px dashed #138086;
     height: auto;
     padding:15px;
 }
+
+.headerinst {
+     color:#fcfcfc;
+    background: #827496;
+    border: 4px dashed #534666;
+    height: auto;
+    padding:15px;
+}
+
 .list { 
-    color:#eeb6d5;
-    background: #ffeaf5;
-    border: 5px solid #eeb6d5;
+    color:#56a2a7;;
+    background: #fcfcfc;
+    border: 5px solid #138086;
     height: auto;
     padding:15px;
 }
 .instructions {
-    color:#eeb6d5;
-    background: #ffeaf5;
-    border: 5px solid #eeb6d5;
+    color:#827496;
+    background: #fcfcfc;
+    border: 5px solid #534666;
     height: auto;
     padding:15px;
 }
 .para {
-    color:#eeb6d5;
-    background: #ffeaf5;
-    border: 5px solid #eeb6d5;
+    color:#CD7672;
+    background: #fcfcfc;
+    border: 5px solid #CD7672;
     height: auto;
     padding:15px;
 }
