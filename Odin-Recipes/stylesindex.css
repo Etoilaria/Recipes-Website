@@ -10,6 +10,13 @@
 
     flex: 1;    
 }
+
+.buttertarts:hover {
+    background-color: #f2cce1;
+    color: #ffeaf5;
+    border: #ffeaf5;
+   
+}
 .empty{
     background-color: #b6cbee;
     color: #eaf7ff;
@@ -20,4 +27,11 @@
     width: 100%;
 
     flex: 1;
+}
+
+.empty:hover {
+    background-color: #c9dbf9;
+    color: #eaf7ff;
+    border: #eaf7ff;
+   
 }
