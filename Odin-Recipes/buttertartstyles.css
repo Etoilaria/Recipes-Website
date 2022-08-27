@@ -10,17 +10,20 @@
     height: auto;
     padding: 15px;
 }
-
-.backbutton {
-    background-color: #e19c99;
+#button{
+    display: flex;
+}
+#button button {
+    background-color: #CD7672;
     color: #fcfcfc;
     border: #fcfcfc;
     padding:5px;
     text-align: center;
     width: auto;
+    flex:1;
 }
-.backbutton:hover {
-    background-color: #f0b9b7;
+#button button:hover {
+    background-color: #e19c99;
 }
 
 .headerlist {
