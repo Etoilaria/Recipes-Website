@@ -1,0 +1,62 @@
+* {
+    background-color: #fcfcfc;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.title{
+    color:#fcfcfc;
+    background: #e19c99;
+    border: 4px dashed #CD7672;
+    height: auto;
+    padding: 15px;
+}
+
+.backbutton {
+    background-color: #e19c99;
+    color: #fcfcfc;
+    border: #fcfcfc;
+    padding:5px;
+    text-align: center;
+    width: auto;
+}
+.backbutton:hover {
+    background-color: #f0b9b7;
+}
+
+.headerlist {
+    color:#fcfcfc;
+    background: #56a2a7;
+    border: 4px dashed #138086;
+    height: auto;
+    padding:15px;
+}
+
+.headerinst {
+     color:#fcfcfc;
+    background: #827496;
+    border: 4px dashed #534666;
+    height: auto;
+    padding:15px;
+}
+
+.list { 
+    color:#56a2a7;;
+    background: #fcfcfc;
+    border: 5px solid #138086;
+    height: auto;
+    padding:15px;
+}
+.instructions {
+    color:#827496;
+    background: #fcfcfc;
+    border: 5px solid #534666;
+    height: auto;
+    padding:15px;
+}
+.para {
+    color:#CD7672;
+    background: #fcfcfc;
+    border: 5px solid #CD7672;
+    height: auto;
+    padding:15px;
+}
